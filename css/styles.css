@@ -1,0 +1,38 @@
+.main {
+    margin-top: 2%;
+}
+
+.opt_style {
+    max-width: 200px;
+}
+
+.formTitle, .formObject {
+    margin: auto;
+}
+
+@media only screen and (max-width: 768px) {
+    .formTitle, .formObject {
+        margin-top: 12px;
+    }
+
+    .marginTop {
+        margin-top: 24px;
+    }
+
+}
+
+
+@media only screen and (min-width: 769px) {
+    .marginTop {
+        margin-top: 12px;
+    }
+
+}
+
+.mTop-12 {
+    margin-top: 12px;
+}
+
+.mSides-12 {
+    margin: 0px 12px;
+}
