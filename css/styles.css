@@ -1,5 +1,6 @@
 .main {
-    margin-top: 2%;
+    margin: 12px auto;
+    
 }
 
 .opt_style {
@@ -21,7 +22,6 @@
 
 }
 
-
 @media only screen and (min-width: 769px) {
     .marginTop {
         margin-top: 12px;
@@ -35,4 +35,22 @@
 
 .mSides-12 {
     margin: 0px 12px;
+}
+
+.startTile {
+    width: 25px;
+    height: 25px;
+    background-color: #06d6a0;
+}
+
+.endTile {
+    width: 25px;
+    height: 25px;
+    background-color: #118ab2;
+}
+
+.barrierTile {
+    width: 25px;
+    height: 25px;
+    background-color: #073b4c;
 }
