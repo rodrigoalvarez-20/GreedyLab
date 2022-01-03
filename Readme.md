@@ -16,4 +16,4 @@ Aplicacion hecha por:
  - Rodrigo Alvarez Perez
  - David Aaron Lira Ricardez
  
-Hecha con mucho :tw-1f499: y Javascript 
+Hecha con mucho :blue-heart: y Javascript 
